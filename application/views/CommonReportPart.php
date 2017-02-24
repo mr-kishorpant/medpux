@@ -1,7 +1,6 @@
 <script>
     $(document).ready(function(){
        $('#printButton').click(function(){
-           //printable();
            printsection()
        });
     });
